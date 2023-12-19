@@ -1,0 +1,75 @@
+body {
+  margin: 0px;
+}
+
+.site-banner { 
+ background-color: orange;
+ padding-top: 10px;
+ padding-bottom: 8px;
+ padding-right: 0px;
+ padding-left: 0px;
+ text-align: center;
+}
+
+article {
+max-width: 1200px;
+ margin-left: 25%;
+ margin-right: 25%;
+  text-align: center
+  width: 60%;
+}
+
+.story-header {
+  font-family: Basier, Arial, sans-serif;
+  font-size: 20px;
+  text-align: center
+}
+
+.deck {
+  font-size: 20px;
+}
+
+.byline{
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+
+.publish-date{
+  font-size: 14px;
+  margin-top: 0px;
+  color: #666666;
+}
+
+.photo {
+  width: 100%;
+  text-align: center
+}
+.photo-caption {
+  font-family: Franklin Light, sans-serif;
+  font-size: 14px;
+  color:#666666;
+  margin-top: 0px;
+  line-height: 18px;
+
+h1 {
+  font-size: 46px;
+  font-family: Franklin Light, sans-serif;
+}
+
+.story_image {
+  max-width: 1200px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
